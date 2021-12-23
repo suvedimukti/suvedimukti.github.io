@@ -18,15 +18,15 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "/Mukti_CV", title: "CV", icon: home}
+  - {file: "Mukti_CV", title: "CV", icon: home}
   - {title: "Research", file: "Research.md"}
-  - {title: "Blog", file: "/blog.md"}
+  - {title: "Blog", file: "blog.md"}
   - {title: "Contact", url: "mailto:mukti.subedi@ttu.edu"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:suvedimukti@gmail.com"}
   - {title: Github, icon: github, url: "https://github.com/suvedimukti"}
-  - {title: Twitter, icon: Twitter, url: "https://twitter.com/suvedimukti1"}
+  - {title: Twitter, icon: twitter, url: "https://twitter.com/suvedimukti"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
