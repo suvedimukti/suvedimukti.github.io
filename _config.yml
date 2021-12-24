@@ -18,7 +18,7 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "Mukti_CV.pdf", title: "CV", icon: home}
+  - {file: "https://github.com/suvedimukti/MachineLearning_TidyModeling/blob/main/TidyModelsClassification.pdf", title: "CV", icon: home}
   - {title: "Research", file: "Research.md"}
   - {title: "Blog", file: "blog.md"}
   - {title: "Contact", url: "mailto:mukti.subedi@ttu.edu"}
