@@ -18,7 +18,7 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "cv.pdf", title: "CV"}
+  - {file: "MuktiSubedi_CV.pdf", title: "CV"}
   - {title: "Research", file: "Research.md"}
   - {title: "Blog", file: "blog.md"}
   - {title: "Contact", url: "mailto:mukti.subedi@ttu.edu"}
