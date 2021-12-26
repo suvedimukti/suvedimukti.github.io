@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Abut Me"
+title: "About Me"
 
 
 ---
