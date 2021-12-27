@@ -11,7 +11,7 @@ The Bachelor of Science in forestry is a four-year long undergraduate degree off
 - Mapping community foreests area 
 - Preparation of community forestry working plan
 - Conducted forest resources inventory of Lwang Unit under Annapurna Conseration Area Project (ACAP)
-- Co-investigated community forest projects with in the framework of social inclusion, and < p style = 'color:blue'> de-facto</p> and < p style = 'color:blue'> de-jure </p> rules in community forests
+- Co-investigated community forest projects with in the framework of social inclusion, and <p style = 'color:blue'> de-facto </p> and <p style = 'color:blue'> de-jure </p> rules in community forests
 - Served as a president of Self-Help Environment Awareness Camp[SHEAC] with a motto of "Think Global, Act Local"
 - Performed an Undergraduate reseach on biomass estimation of Indian bay leaf <i> Cinnamomum tamala </i> using invasive sampling approaches
 
