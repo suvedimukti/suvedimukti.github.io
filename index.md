@@ -8,16 +8,18 @@ I am a PhD Candidate in the Department of [Natural Resources Management](https:/
 ## B.Sc. in Forestry
 The Bachelor of Science in forestry is a four-year long undergraduate degree offered by Tribhuvan University. First one year coures, all courses execpt on seventh semester, are compulsory. Forestry education in Nepal is broad ranging from economics, accouting, social sciences, surveying, engineering and natural resources management. I chose Geographic Information System [GIS](https://en.wikipedia.org/wiki/Geographic_information_system) as elective course. During my B.Sc. education, I worked in several projects, some of them are
 
-- Mapping community foreests area 
-- Preparation of community forestry working plan
-- Conducted forest resources inventory of Lwang Unit under Annapurna Conseration Area Project (ACAP)
-- Co-investigated community forest projects with in the framework of social inclusion, and <p style = 'color:blue'> de-facto </p> and <p style = 'color:blue'> de-jure </p> rules in community forests
+- Mapped boundaries of community foreests using Global Positioning System (GPS) or compass (using angle and distance method).
+- Assisted Community Forestry User Groups (CFUGs) to prepare working plans of their Community Forests.
+- Conducted forest resources inventory of Lwang Unit (seven VDCS) under Annapurna Conseration Area Project (ACAP)
+- Co-investigated community forest projects with in the framework of social inclusion, and *de-facto*and *de-jure* rules in community forests
 - Served as a president of Self-Help Environment Awareness Camp[SHEAC] with a motto of "Think Global, Act Local"
 - Performed an Undergraduate reseach on biomass estimation of Indian bay leaf <i> Cinnamomum tamala </i> using invasive sampling approaches
 
 ## M.Sc. in Biology
-During my master's degree, I served as GIS manager at Geospatial Research Lab (GSRL) at Kingsville, and taught
-1) Introduction to GIS [ GEOL ], 
-2) Advance GIS         [ ],
-3) Introduction to GIS for High-school Teachers, Summer[ 2015] [ Part of National Science Foundation Grant to Dr. Hedquest]
-4) Upward Bound Math-Scince program [How does the math and science works in GIS; Summer 2016] 
+During my master's degree, I worked as a Research Assistant in the Department of Biology, Teaching Assistant in the [Department of Physics and Geosciences](https://www.tamuk.edu/artsci/departments/phge/geo/index.html), and served as GIS manager at Geospatial Research Lab (GSRL).
+
+I served as a Teaching assistant to:
+<p> 1) Introduction to GIS [**GEOL 5302**] </p>
+<p> 2) Advance GIS         [**GEOL 5313**] </p>
+<p> 3) Introduction to GIS for High-school Teachers, Summer[ 2015]</p>
+<p> 4) Geospatial Technologies to Upward Bound Math-Scince program's participants </p>
