@@ -29,11 +29,11 @@ I am currently working in the Geospatial Technologies lab in the Department of N
 I am working on large-area land use/ land cover mapping of 15 counties of Texas using very-high resolution (<1m) digital aerial photogrph collected through National Agricultural Imagery Program (NAIP). I am using Geographicl object based image analysis (GEOBIA) techniques. Further, I am also utilizing time-series sentinel-2 data, and light-detection and ranging (LiDAR) data fusion on NAIP data. 
 
 In short, I am using land use land cover mapping: 
-<p> - accounting spatial dependencis of data </p>
-<p> - employing widely used un(supervised) machine learning models in [R](), and [Python] environment </p>
-<p> - performing data-fusion</p>
-<p> - deep-learning </p>
+- accounting spatial dependencis of data 
+- employing widely used un(supervised) machine learning models in [R](https://www.r-project.org/), and [Python](https://www.python.org/) environment 
+- performing data-fusion
+- deep-learning 
   
-<p> I will post more about my on-going researches and projects as soon as my time permits </p>
+I will post more about my on-going researches and projects as soon as my time permits. In the mean time you can check my scholarly work vising my [Google Scholar Profile](https://scholar.google.com/citations?user=8hXlpL0AAAAJ&hl=en)
   
  
