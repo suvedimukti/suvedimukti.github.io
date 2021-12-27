@@ -24,17 +24,16 @@ I served as a Teaching assistant to:
 <p> 3) Introduction to GIS for High-school Teachers, Summer[ 2015]</p>
 <p> 4) Geospatial Technologies to Upward Bound Math-Scince program's participants </p>
 
-## PHD in Natural Resources Management [To be awarded]
+## PHD in Natural Resources Management [Ongoing]
 I am currently working in the Geospatial Technologies lab in the Department of Natural Resources Management at Texas Tech University. Currently,
 I am working on large-area land use/ land cover mapping of 15 counties of Texas using very-high resolution (<1m) digital aerial photogrph collected through National Agricultural Imagery Program (NAIP). I am using Geographicl object based image analysis (GEOBIA) techniques. Further, I am also utilizing time-series sentinel-2 data, and light-detection and ranging (LiDAR) data fusion on NAIP data. 
 
 In short, I am using land use land cover mapping: 
-<p> accounting spatial dependencis of data 
-  employing widely used un(supervised) machine learning models in [R](), and [Python] environment
-  performing data-fusion
-  deep-learning </p>
+<p> - accounting spatial dependencis of data </p>
+<p> - employing widely used un(supervised) machine learning models in [R](), and [Python] environment </p>
+<p> - performing data-fusion</p>
+<p> - deep-learning </p>
   
-<p>
-  I will post more about my on-going researches as I create publishing </p>
+<p> I will post more about my on-going researches and projects as soon as my time permits </p>
   
-  
+ 
