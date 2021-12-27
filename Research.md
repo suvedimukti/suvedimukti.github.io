@@ -1,5 +1,7 @@
 ---
-layout: default
-title: "Research Projects"
+layout: page
+title: "Research"
 ---
-{% if site.show_excerpts %} {% include home.html %} {% else %} {% include archive.html title="Research Projects" %} {% endif %}
+
+
+### Check if this one works
