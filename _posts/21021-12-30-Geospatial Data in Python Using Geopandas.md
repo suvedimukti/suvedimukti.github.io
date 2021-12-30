@@ -525,7 +525,7 @@ plt.tight_layout()
 
 
     
-![Point plot of tree species with frequency >100](/output_36_0.png)
+![Point plot of tree species with frequency >100](output_36_0.png)
     
 
 
