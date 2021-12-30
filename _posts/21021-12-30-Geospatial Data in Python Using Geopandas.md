@@ -319,7 +319,7 @@ plt.tight_layout()
 
 
     
-![png](output_21_0.png)
+![Point plot of tree species in C1S1 block](output_21_0.png)
     
 
 # make map changing size
@@ -525,7 +525,7 @@ plt.tight_layout()
 
 
     
-![png](output_36_0.png)
+![Point plot of tree species with frequency >100](/output_36_0.png)
     
 
 
