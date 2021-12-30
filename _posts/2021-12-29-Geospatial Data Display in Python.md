@@ -315,13 +315,12 @@ ax.set_ylabel("Latitude", fontsize = 20)
 ax.set_title('Tree Species in Block C1S1',fontsize=20)
 #ax.add_artist(scale1)
 plt.tight_layout()
-#plt.savefig('images/rhodesia_land_classes.png',dpi=300)
+
 
 ```
 
 
-    
-![png](output_21_0.png)
+![Scatter plot of species location](_posts/output_21_0.png))
     
 
 # make map changing size
@@ -526,9 +525,8 @@ plt.tight_layout()
 ```
 
 
-    
-![png](output_36_0.png)
-    
+![Scatter plot of selected species in C1S1 bolck](_posts/output_36_0.png)) 
+   
 
 
 #-------------------------------- The End --------------------------------------------------------------------------------
