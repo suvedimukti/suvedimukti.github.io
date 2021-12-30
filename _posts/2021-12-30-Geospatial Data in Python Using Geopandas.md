@@ -320,6 +320,8 @@ plt.tight_layout()
 
     
 ![Point plot of tree species in C1S1 block](output_21_0.png)
+ 
+![Point plot of tree species in C1S1 block](https://github.com/suvedimukti/suvedimukti.github.io/blob/629de566617c666bb29bef43273ed0ba16c979fd/_posts/output_21_0.png)
     
 
 # make map changing size
