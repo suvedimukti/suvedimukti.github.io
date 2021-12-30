@@ -320,7 +320,7 @@ plt.tight_layout()
 ```
 
 
-![Scatter plot of species location](_posts/output_21_0.png))
+![Scatter plot of species location](_posts/output_21_0.png)
     
 
 # make map changing size
@@ -525,8 +525,8 @@ plt.tight_layout()
 ```
 
 
-![Scatter plot of selected species in C1S1 bolck](_posts/output_36_0.png)) 
-   
+![Scatter plot of selected species in C1S1 bolck](/output_36_0.png)
+
 
 
 #-------------------------------- The End --------------------------------------------------------------------------------
