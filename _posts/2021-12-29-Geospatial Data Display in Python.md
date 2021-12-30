@@ -1,5 +1,5 @@
 # Geospatial Data in Python: Software Preparation, Data Reading, and Displaying
-###  Mukti Subedi: suvedimukti@gmail.com
+ Mukti Subedi: suvedimukti@gmail.com
 
 
 In this tutorial. I will layout necessary process to downoad the latest verion of `python`, package distribution system `anaconda`, install some extra packages and read 
@@ -242,16 +242,6 @@ pdata.crs
 
 
 
-
-```python
-
-```
-
-
-```python
-
-```
-
 Now, it is evident that the `pdata` is projected data with EPSG (European Petroleum Survey Group):32644 or Universal Transverse Mercator (UTM) zone 44N. `data.crs` function results three information about the data a) Name of projection system, b) area of projection system used /area of data's location, and 3) Datum of the tranformation.
 
 What if this is not the correct projection sytem of the data. How do we change it? this is simple, we can invoke `data.to_crs` function to change projection information. 
@@ -331,7 +321,7 @@ plt.tight_layout()
 
 
     
-![png](output_23_0.png)
+![png](output_21_0.png)
     
 
 # make map changing size
@@ -537,28 +527,8 @@ plt.tight_layout()
 
 
     
-![png](output_38_0.png)
+![png](output_36_0.png)
     
 
 
 #-------------------------------- The End --------------------------------------------------------------------------------
-
-
-```python
-
-```
-
-
-```python
-
-```
-
-
-```python
-
-```
-
-
-```python
-
-```
