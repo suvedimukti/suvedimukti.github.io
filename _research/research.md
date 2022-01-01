@@ -1,7 +1,7 @@
 ---
 title:  "Mukti Research Projects"
 mathjax: true
-layout: post
+layout: research
 categories:
   - github
   - website
