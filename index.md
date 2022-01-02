@@ -34,6 +34,6 @@ In short, I am involved in land use land cover mapping:
 - performing data-fusion
 - deep-learning 
   
-I will post more about my on-going researches and projects as soon as my time permits, for details about my projects refer to **Research** tab. In the mean time, you can check my scholarly at my [Google Scholar Profile](https://scholar.google.com/citations?user=8hXlpL0AAAAJ&hl=en)
+I will post more about my on-going researches and projects as soon as my time permits, for details about my projects refer to **Research** tab. In the mean time, you can check my scholarly work at my [Google Scholar Profile](https://scholar.google.com/citations?user=8hXlpL0AAAAJ&hl=en)
   
  
