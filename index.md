@@ -20,20 +20,20 @@ During my master's degree, I worked as a Research Assistant in the Department of
 
 I served as a Teaching assistant to:
 <p> 1) Introduction to GIS [GEOL 5302] </p>
-<p> 2) Advance GIS         [GEOL 5313] </p>
+<p> 2) Advanced GIS        [GEOL 5313] </p>
 <p> 3) Introduction to GIS for High-school Teachers, Summer[ 2015]</p>
 <p> 4) Geospatial Technologies to Upward Bound Math-Scince program's participants </p>
 
-## PHD in Natural Resources Management [Ongoing]
+## Ph.D. in Natural Resources Management [Ongoing]
 I am currently working in the Geospatial Technologies lab in the Department of Natural Resources Management at Texas Tech University. Currently,
 I am working on large-area land use/ land cover mapping of 15 counties of Texas using very-high resolution (<1m) digital aerial photogrph collected through National Agricultural Imagery Program (NAIP). I am using Geographicl object based image analysis (GEOBIA) techniques. Further, I am also utilizing time-series sentinel-2 data, and light-detection and ranging (LiDAR) data fusion on NAIP data. 
 
-In short, I am using land use land cover mapping: 
+In short, I am involved in land use land cover mapping: 
 - accounting spatial dependencis of data 
 - employing widely used un(supervised) machine learning models in [R](https://www.r-project.org/), and [Python](https://www.python.org/) environment 
 - performing data-fusion
 - deep-learning 
   
-I will post more about my on-going researches and projects as soon as my time permits. In the mean time, you can check my scholarly work vising my [Google Scholar Profile](https://scholar.google.com/citations?user=8hXlpL0AAAAJ&hl=en)
+I will post more about my on-going researches and projects as soon as my time permits, for details about my projects refer to **Research** tab. In the mean time, you can check my scholarly at my [Google Scholar Profile](https://scholar.google.com/citations?user=8hXlpL0AAAAJ&hl=en)
   
  
