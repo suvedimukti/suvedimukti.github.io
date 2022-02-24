@@ -1,5 +1,5 @@
 ---
-title:  "Geospatial Data Visualization Using Geopandas"
+title:  "Repeated Cross Validation Sampling of Spatial Point Data for Tidy modeling"
 mathjax: true
 layout: post
 categories:
