@@ -23,4 +23,4 @@ Inabiliiy to access raw data hamper people to use rFIA package. In light of this
 SQLite 3 database which is available for download from here <https://apps.fs.usda.gov/fia/datamart/datamart_sqlite.html>.
 
 
-Full instructions on how to convert download SQlite db, install necessary packagees in R, convert SQLite db tables to raw state tables, and open in R using **rFIA** package is given in this document [click here to read it] (https://github.com/suvedimukti/suvedimukti.github.io/blob/master/_posts/SQLIte_FIADB_TO_StateTables.pdf)
+Full instructions on how to convert download SQlite db, install necessary packagees in R, convert SQLite db tables to raw state tables, and open in R using **rFIA** package is given in this document [click here to read it](https://github.com/suvedimukti/suvedimukti.github.io/blob/master/_posts/SQLIte_FIADB_TO_StateTables.pdf)
